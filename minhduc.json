@@ -19,9 +19,9 @@
         "FreeFire"
       ],
       "publishedAt": "2026-08-29T07:15:00Z",
-      "download": "packages/AIMBOTv1.3105",
-      "sha256": "072a75e1554cc86ff0bdb83fb7fb6c87ff314a426c5fb6e2bf3bcc5310abf8cf",
-      "size": 16165948,
+      "download": "packages/AIMBOT-ESP.3105",
+      "sha256": "3d0c231624d36b2ef98a2f7951dad173f1bd84c21a1d13f68a595d069418fa4f",
+      "size": 16165960,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -56,16 +56,16 @@
       "author": "leminhduc",
       "version": "2.0.0",
       "summary": "MINHDUC • R8 NEW FFMAX ",
-       "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+       "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
 "tags": [
         "Game",
         "FreeFire"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/1.3105",
-      "sha256": "072a75e1554cc86ff0bdb83fb7fb6c87ff314a426c5fb6e2bf3bcc5310abf8cf",
-      "size": 16165948,
+      "download": "packages/R8-NEW.3105",
+      "sha256": "9cf74bf4d423b777aea5552a0d721ccde1954c0bcd7ce74c89907534d6b17c49",
+      "size": 19598702,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -88,7 +88,7 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "assets/icon.png",
+      "icon": "assets/r8new.png",
       "screenshots": [
         "assets/IMG_8258.jpeg",
         "assets/IMG_8231.jpeg",

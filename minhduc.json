@@ -11,8 +11,8 @@
       "name": "AIMBOT ESP ",
       "author": "leminhduc",
       "version": "1.0.0",
-      "summary": "MINHDUC •AIMBOT ESP FREEFIREMAX",
-      "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "summary": "MINHDUC •AIMBOT ESP FFMAX",
+      "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
       "tags": [
         "Game",
@@ -51,21 +51,21 @@
       "password": "1"
     },
     {
-      "identifier": "aimbot2",
-      "name": "AIMBOT FFMAX V2",
-      "author": "MINHDUC",
+      "identifier": "r8new",
+      "name": "R8 NEW",
+      "author": "leminhduc",
       "version": "2.0.0",
-      "summary": "MINHDUC • FFMAX V2 EDITION",
-      "description": "MINHDUC • FFMAX V2 EDITION\n\nFEATURES\n\n• Aimbot — Hỗ trợ điều hướng mục tiêu.\n• ESP — Hiển thị thông tin đối thủ.\n• Optimized UI — Giao diện tối giản, trực quan.\n• Performance — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
+      "summary": "MINHDUC • R8 NEW FFMAX ",
+       "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
 "tags": [
         "Game",
         "FreeFire"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/AIMBOTv2.3105",
-      "sha256": "9e4083450ae0a0dc2927876876642924785a8d93cc773fb6d962ee6777ad6295",
-      "size": 16169618,
+      "download": "packages/1.3105",
+      "sha256": "072a75e1554cc86ff0bdb83fb7fb6c87ff314a426c5fb6e2bf3bcc5310abf8cf",
+      "size": 16165948,
       "supportedOS": [
         {
           "minimum": "17.0",

@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "identifier": "minhduc.aimfreefiree.com",
   "name": "MinhDuc Repository",
-  "description": "Kho Lưu Trữ Aim+Mod+Esp Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : https://zalo.me/0987282020 ✦",
+  "description": "Kho Lưu Trữ Aim+Mod+Esp Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : 0987282020 ✦",
   "accentColor": "#008080",
   "icon": "assets/minhduc.jpg",
   "packages": [
     {
       "identifier": "aimbot",
-      "name": "AIMBOT ESP",
+      "name": "AIMBOT ESP ",
       "author": "leminhduc",
       "version": "1.0.0",
-      "summary": "MINHDUC • AIMBOT ESP FREEFIREMAX",
+      "summary": "MINHDUC •AIMBOT ESP FREEFIREMAX",
       "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020\n\n↓ CÁCH CÀI ĐẶT ↓",
       "category": "Game",
       "tags": [
@@ -67,7 +67,7 @@
       "summary": "MINHDUC • FFMAX V2 EDITION",
       "description": "MINHDUC • FFMAX V2 EDITION\n\nFEATURES\n\n• Aimbot — Hỗ trợ điều hướng mục tiêu.\n• ESP — Hiển thị thông tin đối thủ.\n• Optimized UI — Giao diện tối giản, trực quan.\n• Performance — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
       "category": "Game",
-      "tags": [
+"tags": [
         "Game",
         "FreeFire"
       ],

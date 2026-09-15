@@ -12,7 +12,7 @@
       "author": "leminhduc",
       "version": "1.0.0",
       "summary": "MINHDUC •AIMBOT ESP FREEFIREMAX",
-      "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020\n\n↓ CÁCH CÀI ĐẶT ↓",
+      "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
       "tags": [
         "Game",
@@ -46,8 +46,7 @@
       "isPrivate": false,
       "icon": "assets/aimbot1.png",
       "screenshots": [
-        "assets/aimbot1anh.jpg",
-        "assets/icon.png"
+        "assets/aimbot1anh.jpg"
       ],
       "password": "1"
     },

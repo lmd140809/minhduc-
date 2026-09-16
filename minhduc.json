@@ -171,16 +171,17 @@
       "password": "1"
     },
     {
-      "identifier": "aimbody",
-      "name": "AimBody",
+      "identifier": "antiban",
+      "name": "ANTIBAN",
       "author": "leminhduc",
       "version": "1.0.0",
-      "summary": "MINHDUC • AIMBODY",
-      "description": "MINHDUC • AIMBODY\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "summary": "MINHDUC • ANTIBAN",
+      "description": "MINHDUC • ANTIBAN\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
       "tags": [
         "Game",
-        "FreeFire"
+        "FreeFire",
+        "AntiBan"
       ],
       "publishedAt": "2026-09-16T00:00:00Z",
       "download": "packages/AimBody.3105",

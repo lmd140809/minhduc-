@@ -184,9 +184,9 @@
         "AntiBan"
       ],
       "publishedAt": "2026-09-16T00:00:00Z",
-      "download": "packages/AimBody.3105",
-      "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
-      "size": 64727,
+      "download": "packages/shadowrocket - fixban.3105",
+      "sha256": "e9b08ac896a699016a499cd6f6a418a3e55bfc130fc2832d885e7a0a97cb2dde",
+      "size": 1369530,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -203,11 +203,11 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "assets/aimbody.png",
+      "icon": "assets/.png",
       "screenshots": [
         "assets/aimbody.jpg"
       ],
-      "password": "1"
+      "password": ""
     }
   ]
 }

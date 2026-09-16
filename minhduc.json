@@ -104,8 +104,7 @@
 "category": "Game",
 "tags": [
 "Game",
-"FreeFire",
-"AimBody"
+"FreeFire"
 ],
 "publishedAt": "2026-09-16T00:00:00Z",
 "download": "packages/AimBody.3105",
@@ -143,8 +142,7 @@
 "category": "Game",
 "tags": [
 "Game",
-"FreeFire",
-"AimLock"
+"FreeFire"
 ],
 "publishedAt": "2026-09-16T00:00:00Z",
 "download": "packages/AimLock.3105",

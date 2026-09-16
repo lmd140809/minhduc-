@@ -1,289 +1,174 @@
 {
-"schemaVersion": 1,
-"identifier": "minhduc.aimfreefiree.com",
-"name": "MinhDuc Repository",
-"description": "Kho Lưu Trữ Aim+Mod+Esp Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : 0987282020 ✦",
-"accentColor": "#008080",
-"icon": "assets/minhduc.jpg",
-"packages": [
-{
-"identifier": "aimbot",
-"name": "AIMBOT ESP",
-"author": "leminhduc",
-"version": "1.0.0",
-"summary": "MINHDUC • AIMBOT ESP FFMAX",
-"description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire"
-],
-"publishedAt": "2026-08-29T07:15:00Z",
-"download": "packages/AIMBOT-ESP.3105",
-"sha256": "3d0c231624d36b2ef98a2f7951dad173f1bd84c21a1d13f68a595d069418fa4f",
-"size": 16165960,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0",
-"builds": [
-"24A5355q",
-"24A5370h",
-"24A5380h",
-"24A5390f"
-]
-}
-],
-"featured": true,
-"isPrivate": false,
-"icon": "assets/aimbot1.png",
-"screenshots": [
-"assets/aimbot1anh.jpg"
-],
-"password": "1"
-},
-{
-"identifier": "r8new",
-"name": "R8 NEW",
-"author": "leminhduc",
-"version": "2.0.0",
-"summary": "MINHDUC • R8 NEW FFMAX",
-"description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire"
-],
-"publishedAt": "2026-09-15T08:00:00Z",
-"download": "packages/R8-NEW.3105",
-"sha256": "9cf74bf4d423b777aea5552a0d721ccde1954c0bcd7ce74c89907534d6b17c49",
-"size": 19598702,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0",
-"builds": [
-"24A5355q",
-"24A5370h",
-"24A5380h",
-"24A5390f"
-]
-}
-],
-"featured": false,
-"isPrivate": false,
-"icon": "assets/r8new.png",
-"screenshots": [
-"assets/r8new.jpg"
-],
-"password": "1"
-},
-{
-"identifier": "aimbody",
-"name": "AIMBODY",
-"author": "leminhduc",
-"version": "1.0.0",
-"summary": "MINHDUC • AIMBODY",
-"description": "• CHỨC NĂNG\n\n• AIMBODY — Hỗ trợ hướng tâm vào thân.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire"
-],
-"publishedAt": "2026-09-16T00:00:00Z",
-"download": "packages/AimBody.3105",
-"sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
-"size": 64727,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0"
-}
-],
-"featured": false,
-"isPrivate": false,
-"icon": "assets/aimbody.png",
-"screenshots": [
-"assets/aimbody.jpg"
-],
-"password": "1"
-},
-{
-"identifier": "aimlock",
-"name": "AIMLOCK",
-"author": "leminhduc",
-"version": "1.0.0",
-"summary": "MINHDUC • AIMLOCK",
-"description": "• CHỨC NĂNG\n\n• AIMLOCK — Hỗ trợ khóa mục tiêu.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire"
-],
-"publishedAt": "2026-09-16T00:00:00Z",
-"download": "packages/AimLock.3105",
-"sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
-"size": 64727,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0"
-}
-],
-"featured": false,
-"isPrivate": false,
-"icon": "assets/aimlock.png",
-"screenshots": [
-"assets/aimlock.jpg"
-],
-"password": "1"
-},
-{
-"identifier": "magic-esp",
-"name": "MAGIC ESP",
-"author": "leminhduc",
-"version": "1.0.0",
-"summary": "MINHDUC • MAGIC ESP",
-"description": "• CHỨC NĂNG\n\n• MAGIC ESP — Hiển thị thông tin mục tiêu.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire"
-],
-"publishedAt": "2026-09-16T00:00:00Z",
-"download": "packages/MagicESP.3105",
-"sha256": "SHA256_MAGIC_ESP",
-"size": 0,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0"
-}
-],
-"featured": false,
-"isPrivate": false,
-"icon": "assets/magicesp.png",
-"screenshots": [
-"assets/magicesp.jpg"
-],
-"password": "1"
-},
-{
-"identifier": "esp",
-"name": "ESP",
-"author": "leminhduc",
-"version": "1.0.0",
-"summary": "MINHDUC • ESP",
-"description": "• CHỨC NĂNG\n\n• ESP — Hiển thị mục tiêu.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire"
-],
-"publishedAt": "2026-09-16T00:00:00Z",
-"download": "packages/ESP.3105",
-"sha256": "SHA256_ESP",
-"size": 0,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0"
-}
-],
-"featured": false,
-"isPrivate": false,
-"icon": "assets/esp.png",
-"screenshots": [
-"assets/esp.jpg"
-],
-"password": "1"
-},
-{
-"identifier": "antiban",
-"name": "ANTIBAN",
-"author": "leminhduc",
-"version": "1.0.0",
-"summary": "MINHDUC • ANTIBAN",
-"description": "MINHDUC • ANTIBAN\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
-"category": "Game",
-"tags": [
-"Game",
-"FreeFire",
-"AntiBan"
-],
-"publishedAt": "2026-09-16T00:00:00Z",
-"download": "packages/shadowrocket - fixban.3105",
-"sha256": "e9b08ac896a699016a499cd6f6a418a3e55bfc130fc2832d885e7a0a97cb2dde",
-"size": 1369530,
-"supportedOS": [
-{
-"minimum": "17.0",
-"maximum": "18.7.1"
-},
-{
-"minimum": "26.0",
-"maximum": "26.6.1"
-},
-{
-"minimum": "27.0",
-"maximum": "27.0"
-}
-],
-"featured": false,
-"isPrivate": false,
-"icon": "assets/antiban.png",
-"screenshots": [
-"assets/antiban.jpg"
-],
-"password": "qphungios"
-}
-]
+  "schemaVersion": 1,
+  "identifier": "minhduc.aimfreefiree.com",
+  "name": "MinhDuc Repository",
+  "description": "Kho Lưu Trữ Aim+Mod+Esp Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : 0987282020 ✦",
+  "accentColor": "#008080",
+  "icon": "assets/minhduc.jpg",
+  "packages": [
+    {
+      "identifier": "aimbot",
+      "name": "AIMBOT ESP ",
+      "author": "leminhduc",
+      "version": "1.0.0",
+      "summary": "MINHDUC •AIMBOT ESP FFMAX",
+      "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire"
+      ],
+      "publishedAt": "2026-08-29T07:15:00Z",
+      "download": "packages/AIMBOT-ESP.3105",
+      "sha256": "3d0c231624d36b2ef98a2f7951dad173f1bd84c21a1d13f68a595d069418fa4f",
+      "size": 16165960,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/aimbot1.png",
+      "screenshots": [
+        "assets/aimbot1anh.jpg"
+      ],
+      "password": "1"
+    },
+    {
+      "identifier": "r8new",
+      "name": "R8 NEW",
+      "author": "leminhduc",
+      "version": "2.0.0",
+      "summary": "MINHDUC • R8 NEW FFMAX ",
+      "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/R8-NEW.3105",
+      "sha256": "9cf74bf4d423b777aea5552a0d721ccde1954c0bcd7ce74c89907534d6b17c49",
+      "size": 19598702,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/r8new.png",
+      "screenshots": [
+        "assets/r8new.jpg"
+      ],
+      "password": "1"
+    },
+    {
+      "identifier": "aimbody",
+      "name": "AimBody",
+      "author": "leminhduc",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AIMBODY",
+      "description": "MINHDUC • AIMBODY\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire"
+      ],
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "download": "packages/AimBody.3105",
+      "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
+      "size": 64727,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/aimbody.png",
+      "screenshots": [
+        "assets/aimbody.jpg"
+      ],
+      "password": "1"
+    },
+    {
+      "identifier": "aimlock",
+      "name": "AimLock",
+      "author": "leminhduc",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AIMLOCK",
+      "description": "MINHDUC • AIMLOCK\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire"
+      ],
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "download": "packages/AimLock.3105",
+      "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
+      "size": 64727,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/aimlock.png",
+      "screenshots": [
+        "assets/aimlock.jpg"
+      ],
+      "password": "1"
+    }
+  ]
 }

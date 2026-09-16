@@ -109,8 +109,8 @@
       ],
       "publishedAt": "2026-09-16T00:00:00Z",
       "download": "packages/AimBody.3105",
-      "sha256": "THAY_SHA256_THAT_CUA_FILE",
-      "size": 0,
+      "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
+      "size": 64727,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -148,8 +148,8 @@
       ],
       "publishedAt": "2026-09-16T00:00:00Z",
       "download": "packages/AimLock.3105",
-      "sha256": "THAY_SHA256_THAT_CUA_FILE",
-      "size": 0,
+      "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
+      "size": 64727,
       "supportedOS": [
         {
           "minimum": "17.0",

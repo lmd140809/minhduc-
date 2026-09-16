@@ -1,4 +1,4 @@
- {
+{
   "schemaVersion": 1,
   "identifier": "minhduc.aimfreefiree.com",
   "name": "MinhDuc Repository",
@@ -8,10 +8,10 @@
   "packages": [
     {
       "identifier": "aimbot",
-      "name": "AIMBOT ESP ",
+      "name": "AIMBOT ESP",
       "author": "leminhduc",
       "version": "1.0.0",
-      "summary": "MINHDUC •AIMBOT ESP FFMAX",
+      "summary": "MINHDUC • AIMBOT ESP FFMAX",
       "description": "• CHỨC NĂNG\n\n• Aimbot — Tự động ghim tâm vào đầu.\n• ESP — Hiển thị kẻ địch theo dạng hộp.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
       "tags": [
@@ -55,8 +55,8 @@
       "name": "R8 NEW",
       "author": "leminhduc",
       "version": "2.0.0",
-      "summary": "MINHDUC • R8 NEW FFMAX ",
-      "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "summary": "MINHDUC • R8 NEW FFMAX",
+      "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ.\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
       "tags": [
         "Game",
@@ -94,7 +94,7 @@
       ],
       "password": "1"
     },
-     {
+    {
       "identifier": "aimbody",
       "name": "AimBody",
       "author": "leminhduc",
@@ -107,7 +107,7 @@
         "FreeFire"
       ],
       "publishedAt": "2026-09-16T00:00:00Z",
-      "download": "packages/AimBody.3105",
+      "download": "packages/AIMBODY.3105",
       "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
       "size": 64727,
       "supportedOS": [
@@ -145,8 +145,8 @@
         "FreeFire"
       ],
       "publishedAt": "2026-09-16T00:00:00Z",
-      "download": "packages/AimLock.3105",
-      "sha256": "f0bf72d6dae4d91cfac3a8a9323f9f570f95cac02663a69e5ad2b82dbe5eb3ef",
+      "download": "packages/AIMLOCK.3105",
+      "sha256": "3a63dcc3a108a8a5ac36e512338350c63808faa415375d1570f1d03b0eca16fe",
       "size": 64727,
       "supportedOS": [
         {
@@ -203,9 +203,9 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "assets/.png",
+      "icon": "assets/antiban.png",
       "screenshots": [
-        "assets/aimbody.jpg"
+        "assets/antiban.jpg"
       ],
       "password": "1"
     }

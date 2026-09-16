@@ -56,9 +56,9 @@
       "author": "leminhduc",
       "version": "2.0.0",
       "summary": "MINHDUC • R8 NEW FFMAX ",
-       "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "description": "• CHỨC NĂNG\n\n• Nhẹ tâm — Tâm súng nhẹ hơn.\n• R8 — Cân check r8 không bị lộ .\n\n\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
       "category": "Game",
-"tags": [
+      "tags": [
         "Game",
         "FreeFire"
       ],
@@ -91,6 +91,84 @@
       "icon": "assets/r8new.png",
       "screenshots": [
         "assets/r8new.jpg"
+      ],
+      "password": "1"
+    },
+    {
+      "identifier": "aimbody",
+      "name": "AimBody",
+      "author": "leminhduc",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AIMBODY",
+      "description": "MINHDUC • AIMBODY\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire",
+        "AimBody"
+      ],
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "download": "packages/AimBody.3105",
+      "sha256": "THAY_SHA256_THAT_CUA_FILE",
+      "size": 0,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/aimbody.png",
+      "screenshots": [
+        "assets/aimbody.jpg"
+      ],
+      "password": "1"
+    },
+    {
+      "identifier": "aimlock",
+      "name": "AimLock",
+      "author": "leminhduc",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AIMLOCK",
+      "description": "MINHDUC • AIMLOCK\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\nZalo: https://zalo.me/0987282020",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire",
+        "AimLock"
+      ],
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "download": "packages/AimLock.3105",
+      "sha256": "THAY_SHA256_THAT_CUA_FILE",
+      "size": 0,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/aimlock.png",
+      "screenshots": [
+        "assets/aimlock.jpg"
       ],
       "password": "1"
     }

@@ -203,11 +203,11 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "assets/.png",
+      "icon": "assets/antiban.png",
       "screenshots": [
         "assets/aimbody.jpg"
       ],
-      "password": ""
+      "password": "qphungios"
     }
   ]
 }
